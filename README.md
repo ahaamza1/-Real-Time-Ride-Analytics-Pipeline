@@ -136,6 +136,6 @@ This repository is being built step by step as part of an end-to-end Data Engine
 
 Computer Science Student | Data Engineering Enthusiast
 
-LinkedIn: *(Add your profile here)*
+LinkedIn: www.linkedin.com/in/abdulrahman-hamza-01a74a329
 
 ---
